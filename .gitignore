@@ -1,0 +1,33 @@
+
+__pycache__/
+*.py[cod]
+
+
+venv/
+env/
+.venv/
+nlp_course_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# Optional: datasets (uncomment if needed)
+*.csv
+# *.tsv
+# *.xlsx
+
+# Cache
+.cache/
